@@ -52,6 +52,16 @@ Database:
 6. MongoDB Atlas is used for data storage.
 
 7. Screenshots
+8. ## Screenshots
+
+### Screenshot 1
+![TaskFlow Screenshot 1](Screenshot%202026-11-23%20080440.png)
+
+### Screenshot 2
+![TaskFlow Screenshot 2](Screenshot%202026-11-23%20080538.png)
+
+### Screenshot 3
+![TaskFlow Screenshot 3](Screenshot%202026-11-23%20080704.png)
 
 Signup Page
 
