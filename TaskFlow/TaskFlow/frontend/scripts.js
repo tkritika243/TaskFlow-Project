@@ -1,6 +1,4 @@
-const API = "http://localhost:5000/api";
-
-let token = localStorage.getItem("token") || "";
+const API = "https://taskflow-project-2-ts3o.onrender.com/api";let token = localStorage.getItem("token") || "";
 
 function showLogin() {
     document.getElementById("registerForm").classList.add("hidden");
@@ -9,6 +7,7 @@ function showLogin() {
 
 function showRegister() {
     document.getElementById("loginForm").classList.add("hidden");
+
     document.getElementById("registerForm").classList.remove("hidden");
 }
 
